@@ -34,7 +34,7 @@ berikut penjelasan codingannya di bawah ini :
 
 4."input()" untuk menerima baris input dari user dan mengembalikannya dalam bentuk string
 
-5."if"  yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukana
+5."if"  yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan
 
 6."elif" ketika kondisi lainnya tidak tercapai maka jalankan program
 
