@@ -10,5 +10,15 @@ buka aplikasi sublime text di laptop atau komputer anda
 
 buatlah codingannya seperti di bawah ini
 
+#![2](https://user-images.githubusercontent.com/46584196/52325256-fc2d8700-2a16-11e9-9a6d-800e8f59613e.png)
 
+
+(step 3)
+
+berikut penjelasan codingannya di bawah ini
+
+
+1.print = mencetak atau menampilkan suatu tag 
+
+dengan cara ketik print ('Program Untuk Menentukan Bilangan Terbesar')
 
