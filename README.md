@@ -30,3 +30,16 @@ dengan cara ketik, print ('Program Untuk Menentukan Bilangan Terbesar') contohny
  
  dengan cara ketik, def pengulangan():
  
+3.int() untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer)
+
+
+4.input() untuk menerima baris input dari user dan mengembalikannya dalam bentuk string
+
+
+5.if  yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukana
+
+6.elif ketika kondisi lainnya tidak tercapai maka jalankan program
+
+7.else ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program
+ 
+8.return sebuah selesainya eksekusi dalam kodingan
