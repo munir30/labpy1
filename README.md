@@ -18,25 +18,26 @@ buatlah codingannya seperti di bawah ini
 berikut penjelasan codingannya di bawah ini
 
 
-1.print = mencetak atau menampilkan suatu tag 
+1."print" adalah mencetak atau menampilkan suatu tag 
 
 
-2.def adalah sebuah perintah python yang tidak akan aktif sampai python me -runnning perintah def tersebut atau sebagai kata kunci
+2."def" adalah sebuah perintah python yang tidak akan aktif sampai python me -runnning perintah def tersebut atau sebagai kata kunci
  
  
-3.int() untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer)
+3."int()" untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer)
 
+4."input()" untuk menerima baris input dari user dan mengembalikannya dalam bentuk string
 
-4.input() untuk menerima baris input dari user dan mengembalikannya dalam bentuk string
+5."if"  yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukana
 
+6."elif" ketika kondisi lainnya tidak tercapai maka jalankan program
 
-5.if  yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukana
-
-6.elif ketika kondisi lainnya tidak tercapai maka jalankan program
-
-7.else ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program
+7."else" ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program
  
-8.return sebuah selesainya eksekusi dalam kodingan
+8."return" sebuah selesainya eksekusi dalam kodingan
+
+(step 4)
+untuk menguji codingannya berhasil atau tidaknya maka bukalah aplikasi cmd/commandprompt
 
 
 
