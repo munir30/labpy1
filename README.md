@@ -42,7 +42,7 @@ berikut penjelasan codingannya di bawah ini :
  
 8."return" sebuah selesainya eksekusi dalam kodingan
 
-(step 5)
+(step 6)
 untuk menguji codingannya berhasil atau tidaknya maka bukalah aplikasi cmd/commandprompt
 
 # ![3](https://user-images.githubusercontent.com/46584196/52330548-3eab8f80-2a28-11e9-947a-7a75cbd970ce.png)
