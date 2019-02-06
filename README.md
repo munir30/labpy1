@@ -15,7 +15,7 @@ buatlah codingannya seperti di bawah ini
 
 (step 3)
 
-berikut penjelasan codingannya di bawah ini
+berikut penjelasan codingannya di bawah ini :
 
 
 1."print" adalah mencetak atau menampilkan suatu tag 
@@ -38,6 +38,11 @@ berikut penjelasan codingannya di bawah ini
 
 (step 4)
 untuk menguji codingannya berhasil atau tidaknya maka bukalah aplikasi cmd/commandprompt
+
+![3](https://user-images.githubusercontent.com/46584196/52330548-3eab8f80-2a28-11e9-947a-7a75cbd970ce.png)
+
+Berikut contoh jika program yang kita buat berhasil :
+
 
 
 
