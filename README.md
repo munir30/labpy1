@@ -19,7 +19,7 @@ buatlah codingannya seperti di bawah ini
 #![2](https://user-images.githubusercontent.com/46584196/52325256-fc2d8700-2a16-11e9-9a6d-800e8f59613e.png)
 
 
-(step 5)
+(step 4)
 
 berikut penjelasan codingannya di bawah ini :
 
@@ -42,7 +42,7 @@ berikut penjelasan codingannya di bawah ini :
  
 8."return" sebuah selesainya eksekusi dalam kodingan
 
-(step 6)
+(step 5)
 untuk menguji codingannya berhasil atau tidaknya maka bukalah aplikasi cmd/commandprompt
 
 # ![3](https://user-images.githubusercontent.com/46584196/52330548-3eab8f80-2a28-11e9-947a-7a75cbd970ce.png)
