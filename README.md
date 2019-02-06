@@ -30,6 +30,8 @@ dengan cara ketik, print ('Program Untuk Menentukan Bilangan Terbesar') contohny
  
  dengan cara ketik, def pengulangan():
  
+# ![3](https://user-images.githubusercontent.com/46584196/52327561-271bd900-2a1f-11e9-8ee2-f9cdf550c51a.png)
+ 
 3.int() untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer)
 
 
