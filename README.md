@@ -39,10 +39,11 @@ berikut penjelasan codingannya di bawah ini :
 (step 4)
 untuk menguji codingannya berhasil atau tidaknya maka bukalah aplikasi cmd/commandprompt
 
-![3](https://user-images.githubusercontent.com/46584196/52330548-3eab8f80-2a28-11e9-947a-7a75cbd970ce.png)
+# ![3](https://user-images.githubusercontent.com/46584196/52330548-3eab8f80-2a28-11e9-947a-7a75cbd970ce.png)
 
 Berikut contoh jika program yang kita buat berhasil :
 
+# ![3](https://user-images.githubusercontent.com/46584196/52330908-43bd0e80-2a29-11e9-88f3-05d5f192f415.png)
 
 
 
