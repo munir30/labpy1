@@ -20,5 +20,13 @@ berikut penjelasan codingannya di bawah ini
 
 1.print = mencetak atau menampilkan suatu tag 
 
-dengan cara ketik print ('Program Untuk Menentukan Bilangan Terbesar')
+dengan cara ketik, print ('Program Untuk Menentukan Bilangan Terbesar') contohnya seperti dibawah ini
 
+
+# ![3](https://user-images.githubusercontent.com/46584196/52327032-31d56e80-2a1d-11e9-81a0-aef30a7f1e26.png)
+ 
+ 
+ 2.def adalah sebuah perintah python yang tidak akan aktif sampai python me -runnning perintah def tersebut atau sebagai kata kunci
+ 
+ dengan cara ketik, def pengulangan():
+ 
