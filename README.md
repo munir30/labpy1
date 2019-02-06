@@ -33,9 +33,22 @@ dengan cara ketik, print ('Program Untuk Menentukan Bilangan Terbesar') contohny
 # ![3](https://user-images.githubusercontent.com/46584196/52327561-271bd900-2a1f-11e9-8ee2-f9cdf550c51a.png)
  
 3.int() untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer)
-
-
 4.input() untuk menerima baris input dari user dan mengembalikannya dalam bentuk string
+
+ketik print ('Masukan 3 Bilangan yang diinginkan!')
+
+a=int (input('bilangan1 ='))
+
+b=int (input('bilangan2 ='))
+
+
+c=int (input('bilangan3 ='))
+
+
+contoh codinganya di bawah ini
+# ![3](https://user-images.githubusercontent.com/46584196/52328293-a01c3000-2a21-11e9-8312-1c557d53945a.png)
+
+
 
 
 5.if  yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukana
