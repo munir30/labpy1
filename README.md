@@ -6,14 +6,20 @@ cara membuat program sederhana bilangan terbesar menggunakan sublime text3(pilih
 buka aplikasi sublime text di laptop atau komputer anda
 # ![1](https://user-images.githubusercontent.com/46584196/52323938-b91ce500-2a11-11e9-937a-ed49ff2d0327.png)
 
-(step 2)
+(step2)
+Sebelum memulai eksekusi,maka buatlah folder baru dengan penamaan file yang berkhiran, .py(tanpa tanda kutip) contoh
+file yang saya buat ,tugas.py
+
+![3](https://user-images.githubusercontent.com/46584196/52331258-410ee900-2a2a-11e9-95e6-c958c248c44b.png)
+
+(step 3)
 
 buatlah codingannya seperti di bawah ini
 
 #![2](https://user-images.githubusercontent.com/46584196/52325256-fc2d8700-2a16-11e9-9a6d-800e8f59613e.png)
 
 
-(step 3)
+(step 5)
 
 berikut penjelasan codingannya di bawah ini :
 
@@ -36,7 +42,7 @@ berikut penjelasan codingannya di bawah ini :
  
 8."return" sebuah selesainya eksekusi dalam kodingan
 
-(step 4)
+(step 5)
 untuk menguji codingannya berhasil atau tidaknya maka bukalah aplikasi cmd/commandprompt
 
 # ![3](https://user-images.githubusercontent.com/46584196/52330548-3eab8f80-2a28-11e9-947a-7a75cbd970ce.png)
